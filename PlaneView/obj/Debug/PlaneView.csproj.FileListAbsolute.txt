@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\СSharpLabs\PlaneView\bin\Debug\PlaneView.exe.config
+C:\Users\user\source\repos\СSharpLabs\PlaneView\bin\Debug\PlaneView.exe
+C:\Users\user\source\repos\СSharpLabs\PlaneView\bin\Debug\PlaneView.pdb
+C:\Users\user\source\repos\СSharpLabs\PlaneView\bin\Debug\PlaneModel.dll
+C:\Users\user\source\repos\СSharpLabs\PlaneView\bin\Debug\PlaneModel.pdb
+C:\Users\user\source\repos\СSharpLabs\PlaneView\obj\Debug\PlaneView.csprojAssemblyReference.cache
+C:\Users\user\source\repos\СSharpLabs\PlaneView\obj\Debug\PlaneView.CreatePlane.resources
+C:\Users\user\source\repos\СSharpLabs\PlaneView\obj\Debug\PlaneView.OutputPlane.resources
+C:\Users\user\source\repos\СSharpLabs\PlaneView\obj\Debug\PlaneView.Properties.Resources.resources
+C:\Users\user\source\repos\СSharpLabs\PlaneView\obj\Debug\PlaneView.csproj.GenerateResource.cache
+C:\Users\user\source\repos\СSharpLabs\PlaneView\obj\Debug\PlaneView.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\СSharpLabs\PlaneView\obj\Debug\PlaneView.csproj.CopyComplete
+C:\Users\user\source\repos\СSharpLabs\PlaneView\obj\Debug\PlaneView.exe
+C:\Users\user\source\repos\СSharpLabs\PlaneView\obj\Debug\PlaneView.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\СSharpLabs\PlaneModel\bin\Debug\PlaneModel.dll
+C:\Users\user\source\repos\СSharpLabs\PlaneModel\bin\Debug\PlaneModel.pdb
+C:\Users\user\source\repos\СSharpLabs\PlaneModel\obj\Debug\PlaneModel.csprojAssemblyReference.cache
+C:\Users\user\source\repos\СSharpLabs\PlaneModel\obj\Debug\PlaneModel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\СSharpLabs\PlaneModel\obj\Debug\PlaneModel.dll
+C:\Users\user\source\repos\СSharpLabs\PlaneModel\obj\Debug\PlaneModel.pdb

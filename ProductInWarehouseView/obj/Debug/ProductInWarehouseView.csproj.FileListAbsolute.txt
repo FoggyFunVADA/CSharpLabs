@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\СSharpLabs\ProductInWarehouseView\obj\Debug\ProductInWarehouseView.csprojAssemblyReference.cache
+C:\Users\user\source\repos\СSharpLabs\ProductInWarehouseView\obj\Debug\ProductInWarehouseView.CreateProducts.resources
+C:\Users\user\source\repos\СSharpLabs\ProductInWarehouseView\obj\Debug\ProductInWarehouseView.OutputProducts.resources
+C:\Users\user\source\repos\СSharpLabs\ProductInWarehouseView\obj\Debug\ProductInWarehouseView.Properties.Resources.resources
+C:\Users\user\source\repos\СSharpLabs\ProductInWarehouseView\obj\Debug\ProductInWarehouseView.csproj.GenerateResource.cache
+C:\Users\user\source\repos\СSharpLabs\ProductInWarehouseView\obj\Debug\ProductInWarehouseView.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\СSharpLabs\ProductInWarehouseView\bin\Debug\ProductInWarehouseView.exe.config
+C:\Users\user\source\repos\СSharpLabs\ProductInWarehouseView\bin\Debug\ProductInWarehouseView.exe
+C:\Users\user\source\repos\СSharpLabs\ProductInWarehouseView\bin\Debug\ProductInWarehouseView.pdb
+C:\Users\user\source\repos\СSharpLabs\ProductInWarehouseView\bin\Debug\ProductInWarehouseModel.dll
+C:\Users\user\source\repos\СSharpLabs\ProductInWarehouseView\bin\Debug\ProductInWarehouseModel.pdb
+C:\Users\user\source\repos\СSharpLabs\ProductInWarehouseView\obj\Debug\ProductInWarehouseView.csproj.CopyComplete
+C:\Users\user\source\repos\СSharpLabs\ProductInWarehouseView\obj\Debug\ProductInWarehouseView.exe
+C:\Users\user\source\repos\СSharpLabs\ProductInWarehouseView\obj\Debug\ProductInWarehouseView.pdb

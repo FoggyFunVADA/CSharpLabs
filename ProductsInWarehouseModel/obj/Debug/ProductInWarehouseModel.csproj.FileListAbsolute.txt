@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\СSharpLabs\ProductsInWarehouseModel\bin\Debug\ProductInWarehouseModel.dll
+C:\Users\user\source\repos\СSharpLabs\ProductsInWarehouseModel\bin\Debug\ProductInWarehouseModel.pdb
+C:\Users\user\source\repos\СSharpLabs\ProductsInWarehouseModel\obj\Debug\ProductInWarehouseModel.csprojAssemblyReference.cache
+C:\Users\user\source\repos\СSharpLabs\ProductsInWarehouseModel\obj\Debug\ProductInWarehouseModel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\СSharpLabs\ProductsInWarehouseModel\obj\Debug\ProductInWarehouseModel.dll
+C:\Users\user\source\repos\СSharpLabs\ProductsInWarehouseModel\obj\Debug\ProductInWarehouseModel.pdb
