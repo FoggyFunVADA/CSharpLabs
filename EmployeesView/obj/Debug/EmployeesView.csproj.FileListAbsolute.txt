@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\obj\Debug\EmployeesView.csprojAssemblyReference.cache
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\obj\Debug\EmployeesView.FillDirector.resources
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\obj\Debug\EmployeesView.DirectorsForm.resources
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\obj\Debug\EmployeesView.Properties.Resources.resources
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\obj\Debug\EmployeesView.СhangeDepartment.resources
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\obj\Debug\EmployeesView.csproj.GenerateResource.cache
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\obj\Debug\EmployeesView.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\bin\Debug\EmployeesView.exe.config
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\bin\Debug\EmployeesView.exe
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\bin\Debug\EmployeesView.pdb
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\bin\Debug\Employee.dll
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\bin\Debug\Employee.pdb
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\obj\Debug\EmployeesView.csproj.CopyComplete
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\obj\Debug\EmployeesView.exe
+C:\Users\user\source\repos\СSharpLabs\EmployeesView\obj\Debug\EmployeesView.pdb
