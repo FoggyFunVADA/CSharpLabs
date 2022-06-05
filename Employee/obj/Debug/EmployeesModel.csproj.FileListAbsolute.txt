@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\СSharpLabs\Employee\bin\Debug\Employee.dll
-C:\Users\user\source\repos\СSharpLabs\Employee\bin\Debug\Employee.pdb
-C:\Users\user\source\repos\СSharpLabs\Employee\obj\Debug\EmployeesModel.csprojAssemblyReference.cache
-C:\Users\user\source\repos\СSharpLabs\Employee\obj\Debug\EmployeesModel.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\СSharpLabs\Employee\obj\Debug\Employee.dll
-C:\Users\user\source\repos\СSharpLabs\Employee\obj\Debug\Employee.pdb
