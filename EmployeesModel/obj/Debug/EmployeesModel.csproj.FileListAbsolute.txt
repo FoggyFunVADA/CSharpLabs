@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\СSharpLabs\EmployeesModel\bin\Debug\EmployeesModel.dll
+C:\Users\user\source\repos\СSharpLabs\EmployeesModel\bin\Debug\EmployeesModel.pdb
+C:\Users\user\source\repos\СSharpLabs\EmployeesModel\obj\Debug\EmployeesModel.csprojAssemblyReference.cache
+C:\Users\user\source\repos\СSharpLabs\EmployeesModel\obj\Debug\EmployeesModel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\СSharpLabs\EmployeesModel\obj\Debug\EmployeesModel.dll
+C:\Users\user\source\repos\СSharpLabs\EmployeesModel\obj\Debug\EmployeesModel.pdb
