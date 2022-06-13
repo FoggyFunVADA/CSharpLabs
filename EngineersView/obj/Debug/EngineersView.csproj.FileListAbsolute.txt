@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\СSharpLabs\EngineersView\bin\Debug\EngineersView.exe.config
+C:\Users\user\source\repos\СSharpLabs\EngineersView\bin\Debug\EngineersView.exe
+C:\Users\user\source\repos\СSharpLabs\EngineersView\bin\Debug\EngineersView.pdb
+C:\Users\user\source\repos\СSharpLabs\EngineersView\bin\Debug\EngineersModel.dll
+C:\Users\user\source\repos\СSharpLabs\EngineersView\bin\Debug\EngineersModel.pdb
+C:\Users\user\source\repos\СSharpLabs\EngineersView\obj\Debug\EngineersView.csprojAssemblyReference.cache
+C:\Users\user\source\repos\СSharpLabs\EngineersView\obj\Debug\EngineersView.EngineersForm.resources
+C:\Users\user\source\repos\СSharpLabs\EngineersView\obj\Debug\EngineersView.Properties.Resources.resources
+C:\Users\user\source\repos\СSharpLabs\EngineersView\obj\Debug\EngineersView.csproj.GenerateResource.cache
+C:\Users\user\source\repos\СSharpLabs\EngineersView\obj\Debug\EngineersView.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\СSharpLabs\EngineersView\obj\Debug\EngineersView.csproj.CopyComplete
+C:\Users\user\source\repos\СSharpLabs\EngineersView\obj\Debug\EngineersView.exe
+C:\Users\user\source\repos\СSharpLabs\EngineersView\obj\Debug\EngineersView.pdb
