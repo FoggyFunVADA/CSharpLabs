@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\СSharpLabs\ObjectModel\bin\Debug\ObjectModel.dll
+C:\Users\user\source\repos\СSharpLabs\ObjectModel\bin\Debug\ObjectModel.pdb
+C:\Users\user\source\repos\СSharpLabs\ObjectModel\obj\Debug\ObjectsModel.csprojAssemblyReference.cache
+C:\Users\user\source\repos\СSharpLabs\ObjectModel\obj\Debug\ObjectsModel.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\СSharpLabs\ObjectModel\obj\Debug\ObjectModel.dll
+C:\Users\user\source\repos\СSharpLabs\ObjectModel\obj\Debug\ObjectModel.pdb

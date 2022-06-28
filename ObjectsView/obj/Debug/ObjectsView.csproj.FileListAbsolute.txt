@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\СSharpLabs\ObjectsView\bin\Debug\ObjectsView.exe.config
+C:\Users\user\source\repos\СSharpLabs\ObjectsView\bin\Debug\ObjectsView.exe
+C:\Users\user\source\repos\СSharpLabs\ObjectsView\bin\Debug\ObjectsView.pdb
+C:\Users\user\source\repos\СSharpLabs\ObjectsView\bin\Debug\ObjectModel.dll
+C:\Users\user\source\repos\СSharpLabs\ObjectsView\bin\Debug\ObjectModel.pdb
+C:\Users\user\source\repos\СSharpLabs\ObjectsView\obj\Debug\ObjectsView.csprojAssemblyReference.cache
+C:\Users\user\source\repos\СSharpLabs\ObjectsView\obj\Debug\ObjectsView.InputForm.resources
+C:\Users\user\source\repos\СSharpLabs\ObjectsView\obj\Debug\ObjectsView.MainForm.resources
+C:\Users\user\source\repos\СSharpLabs\ObjectsView\obj\Debug\ObjectsView.Properties.Resources.resources
+C:\Users\user\source\repos\СSharpLabs\ObjectsView\obj\Debug\ObjectsView.csproj.GenerateResource.cache
+C:\Users\user\source\repos\СSharpLabs\ObjectsView\obj\Debug\ObjectsView.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\СSharpLabs\ObjectsView\obj\Debug\ObjectsView.csproj.CopyComplete
+C:\Users\user\source\repos\СSharpLabs\ObjectsView\obj\Debug\ObjectsView.exe
+C:\Users\user\source\repos\СSharpLabs\ObjectsView\obj\Debug\ObjectsView.pdb
